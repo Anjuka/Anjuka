@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anjuka Koralage
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Android Development & Mobile Design
 - 🌱 I’m currently learning Advanced Android Usecases
 - 💞️ I’m looking to collaborate on open world
 - 📫 How to reach me anjukako@gmail.com | 0715170929
